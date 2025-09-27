@@ -1,0 +1,5 @@
+{
+  "name": "Tạo ảnh Trung thu",
+  "description": "An application that generates a festive Mid-Autumn themed portrait by replacing the face in an artistic scene with a user-uploaded photo, powered by Gemini.",
+  "requestFramePermissions": []
+}
